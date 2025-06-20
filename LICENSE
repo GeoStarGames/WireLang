@@ -6,45 +6,37 @@ WireLang is an open-source language and simulator for defining and testing digit
 
 This license allows free personal and educational use, circuit prototyping, and experimentation, while protecting the project from unauthorized resale or commercial use.
 
- You ARE Allowed To:
+ You Are Allowed To:
 
-- Use the WireLang language, IDE, and tools **freely for personal, educational, or research purposes**.
-- Use WireLang to **design your own circuits**, both simple and complex.
-- **Prototype those circuits** on breadboards, simulate them, or **manufacture them as PCBs**.
+- Use the WireLang language, IDE, and tools freely for personal, educational, or research purposes.
+- Use WireLang to design your own circuits, both simple and complex.
+- Prototype those circuits on breadboards, simulate them, or manufacture them as PCBs.
 - Share or publish your own circuits (created using WireLang), even if you sell the physical result (e.g., custom-built PCBs).
 - Modify and contribute to the WireLang codebase under this same license.
 
- You Are **Not** Allowed To:
+ You Are Not Allowed To:
 
-- **Sell, sublicense, or distribute** the WireLang software, language spec, or IDE for commercial purposes.
-- Include WireLang or any derivative in **commercial apps, paid services, or educational products** without permission.
-- Use the **WireLang name or logo** for unofficial forks or products without written approval.
-- Remove or change credit to the original author (*GeoStarGames*).
+- Sell, sublicense, or distribute the WireLang software, language spec, or IDE for commercial purposes.
+- Include WireLang or any derivative in commercial apps, paid services, or educational products without permission.
+- Use the WireLang name or logo for unofficial forks or products without written approval.
+- Remove or change credit to the original author.
 
----
+ Ownership & Contributions
 
-## Ownership & Contributions
-
-WireLang is created and maintained by **GeoStarGames**.  
+WireLang is created and maintained by GeoStarGames.  
 Contributors agree to license their contributions under the same terms.
 
 If you'd like to collaborate or license WireLang for commercial use, please contact the project maintainers.
 
----
-
-## Contact
+ Contact
 
 For commercial licensing, questions, or support:  
-**GeoStarGames** – geostargamesnw@gmail.com
+GeoStarGames – geostargamesnw@gmail.com
 
----
+ Disclaimer
 
-## Disclaimer
-
-This software is provided "as is", without any warranties, guarantees, or liability.  
+This software is provided as is, without any warranties, guarantees, or liability.  
 Use it at your own risk.
 
----
-
-**WireLang is about learning, creating, and experimenting — not limiting.**  
+WireLang is about learning, creating, and experimenting. not limiting.
 We just ask that you don’t sell the tool itself. Build great things with it!
