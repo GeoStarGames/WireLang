@@ -2,15 +2,11 @@ WireLang Non-Commercial Open License v1.0
 
 Copyright (c) 2025 GeoStarGames
 
----
-
-**WireLang** is an open-source language and simulator for defining and testing digital circuits in code.
+WireLang is an open-source language and simulator for defining and testing digital circuits in code.
 
 This license allows free personal and educational use, circuit prototyping, and experimentation, while protecting the project from unauthorized resale or commercial use.
 
----
-
-## You ARE Allowed To:
+ You ARE Allowed To:
 
 - Use the WireLang language, IDE, and tools **freely for personal, educational, or research purposes**.
 - Use WireLang to **design your own circuits**, both simple and complex.
@@ -18,9 +14,7 @@ This license allows free personal and educational use, circuit prototyping, and 
 - Share or publish your own circuits (created using WireLang), even if you sell the physical result (e.g., custom-built PCBs).
 - Modify and contribute to the WireLang codebase under this same license.
 
----
-
-## You Are **Not** Allowed To:
+ You Are **Not** Allowed To:
 
 - **Sell, sublicense, or distribute** the WireLang software, language spec, or IDE for commercial purposes.
 - Include WireLang or any derivative in **commercial apps, paid services, or educational products** without permission.
